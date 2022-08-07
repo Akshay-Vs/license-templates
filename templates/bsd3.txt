@@ -1,4 +1,4 @@
-Copyright (c) $Year $User
+Copyright (c) @Year @User
 
 All rights reserved.
 
