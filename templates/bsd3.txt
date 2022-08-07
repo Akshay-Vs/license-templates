@@ -1,4 +1,4 @@
-Copyright (c) {{ year }}, {{ organization }}
+Copyright (c) $Year $User
 
 All rights reserved.
 
