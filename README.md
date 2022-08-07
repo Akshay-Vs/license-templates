@@ -1,5 +1,5 @@
 # License Templates
-
+## <b>Customized license templete for a personal project</b>
 These files are designed to be used by `lice`, a command-line license generator
 for software projects. 
 
