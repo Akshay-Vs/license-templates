@@ -80,8 +80,8 @@
 
 <h2 align="left"><b>Connect with me</b></h2>
 <p align="left">
-    <a href="Twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Twitter" height="30" width="40" /></a>
-    <a href="Stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a>
+    <a href="https://twitter.com/user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Twitter" height="30" width="40" /></a>
+    <a href="[Stackoverflow]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stackoverflow" height="30" width="40" /></a>
     <a href="https://instagram.com/username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="username" height="30" width="40" /></a>
 </p>
 
